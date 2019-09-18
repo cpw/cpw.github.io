@@ -19,7 +19,7 @@ Firstly, a **huge great big fat caveat**. This is not legal advice. This is an e
 
 However, today's friendly demeanor does not represent all possible future states. We have to exercise the most extreme caution when we really want something and are seemingly given it, out of the blue.
 
-Finally, legal matters are boring, pragmatic, but ultimately very important. Many members of the modding community are adults leading normal lives. The impact of a high profile copyright violation case would be devastating to them. Modding is a legal grey area, with lots of unilluminated legal areas. Let us not walk into obvious well lit legal traps.
+Finally, legal matters are boring, pragmatic, but ultimately very important. Many members of the modding community are adults leading normal lives. The impact of a high profile copyright violation case would be devastating to them. Modding has lots of unilluminated legal areas. Let us not walk into obvious well lit legal traps.
 
 ### `internal, reference purposes`
 
