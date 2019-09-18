@@ -56,6 +56,6 @@ It is a pity that they failed to consult with us before this move, as we could h
 didn't already have, and potentially puts in jeopardy abilities we previously _did_ have.
 
 ## TLDR
-The mapping information is legal poison, and should not be used in any published artifact by any mod or mod framework, in my opinion.
+In my opinion, the mapping information is legal poison, and should not be used in any published artifact by any mod or mod framework. I hope Mojang can clarify this and remove the poison, to allow impactful transformation of modding.
 
 [1]: https://www.minecraft.net/en-us/article/minecraft-snapshot-19w36a
