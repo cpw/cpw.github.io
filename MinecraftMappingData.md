@@ -27,16 +27,16 @@ There is a very significant legal problem with this statement. It seems that any
 copyright notice expressing the desire *not* to use this information in any public fashion. This means that any project exposing this mapping data in a public fashion, such as by publishing
 source using this naming scheme would be in direct violation of Microsoft's license.
 
-Is this a valid legal analysis? I don't know. But the safest approach seems to be that we should continue as if this information had never existed, for *public* consumption.
+Is this a valid legal analysis? I don't know. But the safest approach seems to be that we should continue as if this information had never existed, for *public* consumption. This discussion comes from that vantage point.
 
-Note that there has existed private formal arrangements for sharing similar data with Minecraft Mod platform projects prior to this information release. We take it on good faith that Microsoft permits that use to continue, as it does
+Note that private formal arrangements have existed for sharing similar data with Minecraft Mod platform projects prior to this information release. We take it on good faith that Microsoft permits that use to continue, as it does
 not result in published artifacts containing this data in any fashion.
 
 ## What does this mean
 
 This means that Forge will not be:
 1. Publishing an "official mapping" version of Forge.
-2. Providing an "officially mapped" deobfuscation map.
+2. Providing an "officially mapped" deobfuscation map to be used at runtime.
 3. Supporting mods distributed using "officially mapped" naming in their compiled names.
 
 The MCP project will:
@@ -50,19 +50,12 @@ No mod should:
 
 ## Clarification
 
-Myself and LexManos have reached out to Mojang in an effort to clarify the license above. We have only received "we realize there's a problem here and we're looking into it" in response.
+Myself and LexManos have reached out to Mojang in an effort to clarify the license above. We have only received "we realize there's a problem here and we're looking into it" in response. We hope to receive clarification in future that mods and forge are able to refer these names in their source and compiled forms _as published artifacts_, thereby releasing us from this binding.
 
 It is a pity that they failed to consult with us before this move, as we could have quickly apprised them of the _real_ uses of this information, as "internal reference" is very much a poison chalice, and offers nothing we 
 didn't already have, and potentially puts in jeopardy abilities we previously _did_ have.
 
 ## TLDR
 The mapping information is legal poison, and should not be used in any published artifact by any mod or mod framework, in my opinion.
-
-
-
-
-
-
-
 
 [1]: https://www.minecraft.net/en-us/article/minecraft-snapshot-19w36a
