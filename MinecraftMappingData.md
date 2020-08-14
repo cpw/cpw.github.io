@@ -78,7 +78,10 @@ This was set live on Friday 14th August, with the text above unaltered.
 ## Some good news?
 
 One thing from my original analysis has changed, with this change. They are _probably_ now useable to distribute the source code to a mod. 
+
 In other words, it's my opinion that you could publish the _source code_ to your mod, onto an open public forum, with these names referenced, and not be in violation of the new license terms, as source code is pretty clearly "development purposes".
+
+Note that while this seems quite nice, none of the toolchains use these names internally, and you'd just be adding additional translation work to move between these names and your preferred mod stack's actual naming (Forge uses SRG+MCP, Fabric uses Intermediary+Yarn), and you'd be in general "source conflict" with the wide majority of modders on your platform of choice by doing this.
 
 ## Development purposes
 
@@ -92,7 +95,9 @@ All of these are potentially problematic when it comes to the transformative use
 
 ## External documentation
 
-Some have said that things like the tweet from Dinnerbone above (and related tweets), are implicit authorization that our uses are good. These are an excellent sign of strong good will from Mojang, and I welcome it, and hope that we can continue to foster goodwill going forwards. However, legal licenses don't care about external statements of goodwill. They may count before a Judge, and as such, are probably a strong indicator that we'd prevail in a legal motion, but the whole point is that I don't think any of our community would have the financial muscle to try and enter into a prolonged legal battle with an adversarial future Microsoft. Therefore, we have to take the _most pessimistic view_ of any legal text, and said text _has_ to be considered on it's own, without reference to any supporting documentation, be they tweets, letters, or otherwise.
+Some have said that things like the tweet from Dinnerbone above (and related tweets), are implicit authorization that our uses are good. These are an excellent sign of strong good will from Mojang, and I welcome it, and hope that we can continue to foster goodwill going forwards.
+
+However, legal licenses don't care about external statements of goodwill. They may count before a Judge, and as such, are probably a strong indicator that we'd prevail in a legal motion, but the whole point is that I don't think any of our community would have the financial muscle to try and enter into a prolonged legal battle with an adversarial future Microsoft. Therefore, we have to take the _most pessimistic view_ of any legal text, and said text _has_ to be considered on it's own, without reference to any supporting documentation, be they tweets, letters, or otherwise.
 
 ## Legal discussions
 
