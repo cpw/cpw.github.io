@@ -1,5 +1,7 @@
 # A brief statement on Minecraft Mapping data
 
+See [Update August 2020](# Update August 2020) for an updated statement for the change in August 2020.
+
 ## Overview
 
 On 4th September, 2019, Mojang published [snapshot 19w36a][1]. A feature highlight is the following:
@@ -59,3 +61,48 @@ didn't already have, and potentially puts in jeopardy abilities we previously _d
 The mapping information has the potential to be truly transformative, and I'm certain that Mojang and Microsoft had nothing but those intentions in mind when they did this. However, in my opinion, the mapping information with this license is legal poison, and should not be used in any published artifact by any mod or mod framework. I sincerely hope Mojang can clarify this and remove the poison, to allow impactful transformation of modding.
 
 [1]: https://www.minecraft.net/en-us/article/minecraft-snapshot-19w36a
+
+
+# Update August 2020
+
+On 12th August 2020, Dinnerbone published this [tweet thread][2]. ![Tweet screenshot](dinnerbonetweets.png)
+
+The amended license terms mentioned are as follows:
+
+```
+© 2020 Microsoft Corporation. All rights reserved. These mappings are provided "as-is" and you bear the risk of using them. You may copy and use the mappings for development purposes, but you may not redistribute the mappings complete and unmodified. Microsoft makes no warranties, express or implied, with respect to the mappings provided here.  Use and modification of source code for Minecraft: Java Edition is governed by the Minecraft End User License Agreement available at https://account.mojang.com/documents/minecraft_eula. 
+```
+
+This was set live on Friday 14th August, with the text above unaltered.
+
+## Some good news?
+
+One thing from my original analysis has changed, with this change. They are _probably_ now useable to distribute the source code to a mod. 
+In other words, it's my opinion that you could publish the _source code_ to your mod, onto an open public forum, with these names referenced, and not be in violation of the new license terms, as source code is pretty clearly "development purposes".
+
+## Development purposes
+
+This new term is the key issue here. What does it mean? All development related activities? That's a pretty nebulous specification, in my opinion.
+
+* What about playing the mod, when compiled with these names? Is that development?
+* What about distributing the mod, when compiled with these names? Is that development?
+* What about runtime deobfuscation of the game to these names? Is that development?
+
+All of these are potentially problematic when it comes to the transformative uses discussed above. Interoperability goals are only achieved in this transformative case, and I don't believe the license is explicitly supporting this transformative case.
+
+## External documentation
+
+Some have said that things like the tweet from Dinnerbone above (and related tweets), are implicit authorization that our uses are good. These are an excellent sign of strong good will from Mojang, and I welcome it, and hope that we can continue to foster goodwill going forwards. However, legal licenses don't care about external statements of goodwill. They may count before a Judge, and as such, are probably a strong indicator that we'd prevail in a legal motion, but the whole point is that I don't think any of our community would have the financial muscle to try and enter into a prolonged legal battle with an adversarial future Microsoft. Therefore, we have to take the _most pessimistic view_ of any legal text, and said text _has_ to be considered on it's own, without reference to any supporting documentation, be they tweets, letters, or otherwise.
+
+## Legal discussions
+
+I am going to be honest and state that I had been working with Mojang since several months prior to this change in the hopes that we would fix this problem to my satisfaction. This update was not my desired end-state. It was something that was a _move in the right direction_, but I stood and still stand hopeful that we can move further.
+
+My latest proposal is that use of this file be governed under the EULA. The game is All rights reserved, however, we mod with permission from the EULA. This is an extension to modding, why does this need separate legal governance? Specifically, I would like to see the license change to "use of this file in modding is governed by the EULA terms on modding. You may not redistribute it directly."
+
+
+## Conclusion (August 2020)
+
+I still harbour hope that Mojang actually does want to work to _actually_ address this problem, and this is not the final word on this matter.
+
+[2]: https://twitter.com/Dinnerbone/status/1293597326561488897?s=20
