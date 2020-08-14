@@ -1,6 +1,6 @@
 # A brief statement on Minecraft Mapping data
 
-See [Update August 2020](#Update August 2020) for an updated statement for the change in August 2020.
+See [Update August 2020](#update-august-2020) for an updated statement for the change in August 2020.
 
 ## Overview
 
